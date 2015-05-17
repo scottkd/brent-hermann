@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:800);
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
+
+body {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: underline;
+	color: inherit;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+.popover {
+	text-align: center;
+	left: 15px;
+}
+
+.text-raleway {
+	font-family: 'Raleway', sans-serif;
+}
+
+.text-lato {
+	font-family: 'Lato', sans-serif;
+}
+
+.headline {
+	font-size: 7em;
+}
+
+.letter-b:hover {
+	color: yellow;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-r:hover {
+	color: red;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-e:hover {
+	color: orange;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-t:hover {
+	color: blue;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-n:hover {
+	color: aqua;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-a:hover {
+	color: chartreuse;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-h:hover {
+	color: fuchsia;
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.letter-m:hover {
+	color: yellowgreen;
+	transition: 0.2s;
+	cursor: pointer;
+}
